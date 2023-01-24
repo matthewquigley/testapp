@@ -24,7 +24,7 @@ export default function App() {
           <TouchableOpacity style={{ marginBottom: 20 }}>
             <Text>Login</Text>
           </TouchableOpacity>
-          <Text style={{textAlign: 'center'}}>The username/password used here is the same password used to login to Windows on your computer.</Text>
+          <Text style={{textAlign: 'center'}}>Test Git. The username/password used here is the same password used to login to Windows on your computer.</Text>
         </View>
       </View>
   );
